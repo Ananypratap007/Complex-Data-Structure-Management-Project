@@ -21,3 +21,24 @@ This project offers the following features:
 6. **Structured Output:** Display the contents of both data structures in a structured and comprehensible manner.
 
 ## Getting Started
+
+### Prerequisites
+
+Before you can run this project, ensure that you have:
+
+- A C++ compiler with C++11 or later support.
+- An input file containing data and commands, formatted as specified in the code.
+
+### Usage
+
+1. Compile the code using your preferred C++ compiler, ensuring compatibility with C++11 or later.
+
+```bash
+g++ -std=c++11 -o complex_data_structure_manager complex_data_structure_manager.cpp
+```
+
+2. Run the compiled binary, providing the name of the input file as a command-line argument
+
+```bash
+./complex_data_structure_manager < input.txt
+```
