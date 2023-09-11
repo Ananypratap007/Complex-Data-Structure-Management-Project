@@ -62,3 +62,14 @@ R Apple
 I Fig Grape
 R Banana
 ```
+
+## Output
+Upon execution, the program will display the contents of both std::map and std::unordered_map data structures, showcasing the efficient management of data. Additionally, execution times (commented out in the code) can be uncommented to provide insights into the performance of each operation.
+
+## Performance Analysis
+This project demonstrates the proficiency of std::map and std::unordered_map data structures in handling dynamic data operations efficiently. You can uncomment the timing code to measure the execution time for each data structure's operations and compare their performance.
+
+## Conclusion
+The Complex Data Structure Management Project exemplifies the elegance and power of modern C++ data structures. It serves as an educational tool and a practical solution for managing data from external sources with ease and precision. Explore the intricacies of these data structures and optimize your data management workflows.
+
+Enjoy exploring the world of complex data structure management!
