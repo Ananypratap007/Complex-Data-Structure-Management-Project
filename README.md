@@ -42,3 +42,23 @@ g++ -std=c++11 -o complex_data_structure_manager complex_data_structure_manager.
 ```bash
 ./complex_data_structure_manager < input.txt
 ```
+
+## Input File Format
+
+The input file should adhere to the following format:
+
+- Each line contains a command followed by data, separated by space.
+- Commands can be 'I' for insertion or 'R' for deletion.
+- Insertions ('I') are followed by strings to be inserted.
+- Deletions ('R') are followed by strings to be removed.
+
+
+Example input file (input.txt):
+
+```mathematica 
+I Apple Banana
+I Cherry Date
+R Apple
+I Fig Grape
+R Banana
+```
